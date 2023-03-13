@@ -172,7 +172,7 @@ Setelah itu, kirim pull request (PR):
 ![25](images/3/31.png)
 
 Setelah membuat PR, PR bisa di-*merge*
-![26](images/3/32.1.png)
+![26](images/3/32.png)
 
 Setelah itu, ```Confirm Merge```, branch yang kita kirimkan tadi sudah dimasukkan ke branch ```main```. Setelah itu, merge di komputer lokal:
 
@@ -290,7 +290,7 @@ Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Se
 ```$ git revert HEAD```
 
 ![27](images/3/35.2.png)
-![27](images/3/35.3.png)
+
 
 Perintah di atas akan membuka editor. Pada editor tersebut kita bisa mengetikkan pesan revert ( = pesan commit untuk pembatalan). Setelah selesai, simpan:
 
@@ -299,6 +299,9 @@ Perintah di atas akan membuka editor. Pada editor tersebut kita bisa mengetikkan
  1 file changed, 1 deletion(-)
 $
 ```
+
+![27](images/3/35.3.png)
+
 Selanjutnya, tinggal di-push ke repo GitHub.
 ```
 $ git status
