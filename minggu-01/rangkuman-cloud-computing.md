@@ -8,17 +8,17 @@ Contoh dari Cloud computing adalah Google Apps, Dropbox.
 1. Biaya yang rendah
 2. Kemudahan dalam menggunakan perangkat dan akses
 3. Pemeliharaan yang baik
-4. Kinerja dipantau oleh pakar iT
+4. Kinerja dipantau oleh pakar IT
 5. Produktivitas yang tinggi
 6. Skalabilitas
 7. Keamanan yang baik 
 
 ## Layanan 
-1. Infrastructure as a Service (IaaS) 
+1. *Infrastructure as a Service (IaaS)*
    Digunakan dalam virtual mesin, penyimpanan, networking
-2. Platform as a Service (PaaS)
+2. *Platform as a Service (PaaS)*
    Digunakan dalam aplikasi runtime, database, data lake, developer services
-3. Software as a Service (SaaS)
+3. *Software as a Service (SaaS)*
    Digunakan dalam CRM, ERP, Web COnferencing, grup chat, email game
 ## Model Penyebaran Teknologi CLoud
 ### Private 
@@ -26,4 +26,4 @@ Infrastuktur cloud yang dilaksanakan oleh satu organisasi untuk memanajemen inte
 ### Public
 Layanan Cloud yang digunakan untuk publik internet yang ditawarkan untuk layanan berbayar atau gratis
 ### Hybrid
-Layanan yang merupakan gabungan dari Private dan Public dimana nantinya suoatu organisasi menggunakan setengah layanan privat dan setengahnya lagi menggunakan Public untuk membantu meningkatkan layanan penyimpanan data org
+Layanan yang merupakan gabungan dari Private dan Public dimana nantinya suoatu organisasi menggunakan setengah layanan privat dan setengahnya lagi menggunakan Public untuk membantu meningkatkan layanan penyimpanan data organisasi
