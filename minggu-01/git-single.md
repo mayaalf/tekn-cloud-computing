@@ -149,7 +149,7 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
 
 Untuk kasus-kasus tersebut, lakukan perubahan di komputer lokal, setelah itu push ke repo.
 
-![23](images/3/26.1.png)
+![23](images/3/25.1.png)
 
 Cara ini lebih mudah tetapi mempunyai resiko jika terjadi kesalahan dalam edit. Cara yang lebih aman tetapi memerlukan langkah yang lebih panjang adalah branching and merging
 
@@ -165,7 +165,7 @@ Dengan menggunakan cara ini, setiap kali akan melakukan perubaham, perubahan itu
 7. Merge branch untuk menampung perubahan-perubahan tersebut ke master.
 8. Selesai.
 
-![24](images/3/27.1.png)
+![24](images/3/26.1.png)
 
 Setelah itu, kirim pull request (PR):
 
@@ -288,6 +288,9 @@ $
 Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
 
 ```$ git revert HEAD```
+
+![27](images/3/35.2.png)
+![27](images/3/35.3.png)
 
 Perintah di atas akan membuka editor. Pada editor tersebut kita bisa mengetikkan pesan revert ( = pesan commit untuk pembatalan). Setelah selesai, simpan:
 
@@ -453,6 +456,8 @@ Unmerged paths:
 no changes added to commit (use "git add" and/or "git commit -a")
 $
 ```
+![27](images/3/38.2.png)
+
 Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
 ```
 $ git add README.md
