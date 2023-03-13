@@ -1,38 +1,3 @@
-## Mengelola Repo Sendiri di Organisasi
-
-Repo yang dibuat bisa diletakkan pada account kita maupun berada pada suatu organisasi. Organisasi bisa kita buat sendiri maupun kita dimasukkan menjadi anggota organisasi. Pada dasarnya, bagian ini sama dengan bagian sebelumnya, hanya saja, pada saat membuat repo Owner dari repo adalah organisasi seperti berikut ini:
-
-![01](images/3/43.png)
-
-
-### Membuat repository dengan command line
-
-```
-echo "# playground" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/UTDI-TC/playground.git
-git push -u origin main
-```
-
-![0](images/3/44.png)
-
-### Push repository dari command line
-
-```
-git remote add origin https://github.com/UTDI-TC/playground.git
-git branch -M main
-git push -u origin main
-```
-
-![0](images/3/45.png)
-
-### Clone
-
-![0](images/3/46.png)
- 
 # Git untuk Kolaborasi
 
 ## Pendahuluan
