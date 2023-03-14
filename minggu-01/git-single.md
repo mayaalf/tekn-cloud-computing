@@ -172,6 +172,7 @@ Setelah itu, kirim pull request (PR):
 ![25](images/3/31.png)
 
 Setelah membuat PR, PR bisa di-*merge*
+
 ![26](images/3/32.png)
 
 Setelah itu, ```Confirm Merge```, branch yang kita kirimkan tadi sudah dimasukkan ke branch ```main```. Setelah itu, merge di komputer lokal:
