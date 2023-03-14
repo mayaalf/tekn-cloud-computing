@@ -183,6 +183,7 @@ Suatu saat, bisa saja terjadi kita menggunakan komputer lain dan mengedit repo m
 ```
 $ git pull
 ```
+![27](images/3/33.2.png)
 
 ### Membatalkan Perubahan
 
