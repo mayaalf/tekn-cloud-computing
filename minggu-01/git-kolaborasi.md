@@ -86,3 +86,6 @@ Sebelum melakukan perubahan, pastikan:
 9. Sinkronkan semua repo (lokal maupun GitHub kontributor)
 
 ![13](images/4/11.png)
+
+## Konflik
+Ada kemungkinan, jika satu orang mengirimkan PR untuk satu atau lebih file dan sementara itu ada lainnya juga yang mengirimkan PR pada satu atau lebih file yang sama, maka akan terjadi konflik karena ada satu atau lebih file yang sama yang di-edit dan akan di-merge. Jika sampai terjadi kasus seperti ini, maka upatream author harus menolak semua PR dan kemudian masing-masing kontributor diharapkan menyelesaikan secara manual (offline) kemudian memutuskan siapa yang akan mengirimkan PR.
