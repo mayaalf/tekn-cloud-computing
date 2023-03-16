@@ -87,4 +87,17 @@ SaaS adalah cara untuk mengirimkan perangkat lunak, penyedia perangkat lunak yan
 5. Penyimpanan Web menggunkan Amazon S3 karena memiliki layanan yang bagus dan sangat dapat diskalakan. Amazon S3 mudah digunakan, disimpan dan diambil dalam jumlah data yang banyak
 6. Jaringan pengiriman konten untuk aplikasi SaaS menggunakan content delivery network (CDN) yang menyajikan konten dengan kinerja tinggi dan ketersediaan tinggi.
 
-![1](minggu-02/1.png)
+    
+    
+    ![1](1.png)
+
+
+# Software SaaS Cloud dan Non-Cloud
+1. SaaS Cloud
+  
+    - Dropbox
+    - Adobe Creative Cloud
+    
+2. SaaS Non-Cloud
+
+    -
