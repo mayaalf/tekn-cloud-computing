@@ -126,7 +126,7 @@ Setelah mengetahui pengertian, fungsi serta manfaat dari SaaS, sekarang akan dib
    #### Kekurangan Adobe Illustrator
    
    - Installasi Adobe Illustrator harus menggunakan PC atau laptop yang sesuai
-   - Susah mengedit atau memberi efek pada foto atau gambar
+   - Sulit mengedit atau memberi efek pada foto atau gambar
    - Penggunaan fitur power clip yang tidak terlalu baik
    - Gambar tampak tidak realistis
    - Sulit dalam pengerjaan layout meskipun memiliki fitur lengkap 
