@@ -95,9 +95,11 @@ SaaS adalah cara untuk mengirimkan perangkat lunak, penyedia perangkat lunak yan
 # Software SaaS Cloud dan Non-Cloud
 1. SaaS Cloud
   
-    - Dropbox
-    - Adobe Creative Cloud
+    - Google Docs, digunakan untuk membuat laporan berbentuk dokumen
+    - Canva, digunakan untuk membuat animasi, design grafis
     
 2. SaaS Non-Cloud
 
-    -
+    - Microsoft Word, digunakan untuk membuat laporan berbentuk dokumen
+    - Adobe Ilustrator (AI), digunakan untuk membuat animasi, design grafis
+ 
