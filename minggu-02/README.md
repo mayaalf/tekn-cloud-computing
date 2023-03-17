@@ -14,7 +14,7 @@ Tugas
 
 ```
 minggu-02
-├── 1.jpg
+├── 1.png
 ├── rangkuman-saas.md
 ├── layanan-saas.md
 └── README.md
