@@ -23,4 +23,6 @@
 
 ## Membuat Aplikasi Baru Melalui Dashboard
 
-1
+1. Klik **Create New App**
+
+![06](m3/6.png)
