@@ -1,6 +1,4 @@
-# Latihan
-
-## Signup Heroku
+# Signup Heroku
 1. Masuk dalam [URL Heroku](https://signup.heroku.com/) untuk membuat account
 
 ![01](m3/1.png)
@@ -21,8 +19,22 @@
 
 ![05](m3/5.png)
 
-## Membuat Aplikasi Baru Melalui Dashboard
+# Getting Started on Heroku With Python
 
-1. Klik **Create New App**
+1. Login Heroku menggunakan command 
 
-![06](m3/6.png)
+2. Cek php, composer dan git version
+
+## Prepare The App
+
+1. Clone contoh aplikasi pada penyimpanan lokal yang akan di deploy pada Heroku
+
+## Deploy The App
+
+1. Membuat aplikasi pada Heroku
+
+2. Deploy 
+
+3. Membuka aplikasi pada website
+
+## View Logs
