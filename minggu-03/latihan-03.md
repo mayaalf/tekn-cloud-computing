@@ -1,7 +1,6 @@
 # Deploy Some Code - Quick Start - Deploy to Cyclic
 
 1. Klik Ddeploy To Cyclic
-
     
     ![01](f3/0.png)
 
