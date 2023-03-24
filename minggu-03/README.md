@@ -6,7 +6,7 @@
 
 ```Tugas```
 
-1. Kerjakan [Deploy Some Code - DIY](tugas-03.md)
+1. Kerjakan [**Deploy Some Code - DIY**](tugas-03.md)
 
 
 ```
