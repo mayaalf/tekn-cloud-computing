@@ -23,3 +23,11 @@
 6.  Lalu akan ke tampilan approve & install Cyclic,sh, klik Approve & Install
 
     ![06](f3/5.png)
+    
+7.  Build dan Deploying aplikasi akan berjalan pada repository express-hello-world, jika berhasil akan muncul tampilan **"You're Live!"**
+
+     ![07](f3/6.png)
+ 
+ 8.  Ketika sudah berhasil, cobalah membuka URL yang disediakan setelah proses build dan deploy selesai
+
+     ![08](f3/6.1.png)
