@@ -1,8 +1,8 @@
 # Deploy Some Code - Quick Start - Deploy to Cyclic
 
-1. Klik Ddeploy To Cyclic
+1. Klik Deploy To Cyclic
     
-    ![01](f3/0.png)
+    ![01](f3/0.jpg)
 
 2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
 
