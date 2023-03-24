@@ -1,6 +1,6 @@
 # Deploy Some Code - Quick Start - Deploy to Cyclic
 
-1. Klik Deploy To Cyclic
+1. Klik [link ini](https://docs.cyclic.sh/) lalu scoll sampai menemukan **Quick Start** dan klik ```Deploy To Cyclic```
     
     ![01](f3/0.jpg)
 
