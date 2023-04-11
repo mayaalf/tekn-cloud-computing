@@ -41,7 +41,7 @@ Sudah terbentuk ```local.conf``` kemudian tambahkan beberapa konfigurasi sebagai
 
 ![8](m44/8.png)
 
-## Step 1 : Memulai OpenStack di Ubuntu dengan DevStack
+## Step 4 : Memulai OpenStack di Ubuntu dengan DevStack
 
 Memulai installasi Openstack dengan perintah
 
