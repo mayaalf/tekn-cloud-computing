@@ -9,7 +9,7 @@ Tugas
 ```
 1. Kerjakan [ walkthrough untuk Mininet, setelah itu semaksimal mungkin untuk bisa memahami SDN, kerjakan tutorial OpenFlow. Lihat di sisi sebelah kanan untuk urut-urutannya.](tugas-04.md)
 ```
-minggu-03
+minggu-04
 ├── m44
 ├── latihan-04.md
 ├── tugas-04.md
