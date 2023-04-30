@@ -1,4 +1,4 @@
-[ [<<Kembali] ]([tekn-cloud-computing/minggu-05/README.md](https://github.com/mayaalf/tekn-cloud-computing/blob/afb6cb1bf30ffcfa9a8ff873643055fd4d19f284/minggu-05/README.md))
+[ [<<Kembali] ](https://github.com/mayaalf/tekn-cloud-computing/blob/afb6cb1bf30ffcfa9a8ff873643055fd4d19f284/minggu-05/README.md)
 # Install Apache OFBiz
 
 ## Install Java
