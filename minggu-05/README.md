@@ -7,7 +7,7 @@ Latihan
 ```
 Tugas
 ```
-1. Kerjakan [dengan menggunakan fasilitas demo, pilihlah E-Commerce webstore atau backend ERP. Setelah itu, buatlah panduan dasar pemakaiannya. Anda bebas memilih tema (misal - panduan berbelanja di Webstore E-Commerce). Gunakan kreativitas anda.](tugas-05.md)
+1. Kerjakan [dengan menggunakan fasilitas demo, pilihlah E-Commerce webstore atau backend ERP](tugas-05.md)
 ```
 minggu-05
 ├── 5
