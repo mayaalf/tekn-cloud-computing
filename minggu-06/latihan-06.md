@@ -121,3 +121,10 @@
 4. Jalankan perintah untuk membaca file database yang sudah dibuat
 
     ![31](6/30.png)
+
+5. Cek kembali pada cmd mongoBD untuk memastikan database sudah terbuat dengan baik dengan perintah ```show dbs```
+
+    ![32](6/32.png)
+    
+#RestfulAPI Untuk Membaca Data Dari MySQL dan MongoDB
+
