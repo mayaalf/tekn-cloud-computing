@@ -74,4 +74,50 @@
     
     ![20](6/21.png)
    
- # Program Koneksi dan Baca Data Pada MySQL dan MongoDB 
+
+# Program Koneksi dan Baca Data Pada MySQL dan MongoDB 
+## Program Koneksi dan Baca Data Pada MySQL
+ 
+1. Buatlah folder kerja untuk membuat file kerja koneksi MySQL bernama **pcloud6**
+2. Masuk pada cmd untuk insialisasi folder projek dengan mengetikkan perintah seperti berikut :
+
+    ![22](6/23.png)
+
+3. Ketikkan perintah untuk mengunduh library mysql 
+
+    ![23](6/27.png)
+ 
+4. Ketikkan perintah mod tidy untuk melakukan validasi dependensi.
+
+    ![24](6/28.png)
+    
+5. Membuat database bernama **test** dengan nama tabel **mahasiswa** 
+
+    ![25](6/25.png)
+    
+6. Ketikkan code dengan menggunakan library dari database mysql untuk nantinya dapat dibaca data yang telah tersimpan dalam database.
+
+    ![26](6/33.png)
+    
+7. Jalankan perintah untuk membaca file database yang sudah dibuat
+
+    ![27](6/26.png)
+    
+    
+## Program Koneksi dan Baca Data Pada MongoDB 
+
+1. Membuat inisailisas folder projek kerja yang bernama cloudMongo
+
+    ![28](6/31.png)
+   
+2. Ketikkan perintah untuk mengunduh library mongoDB
+
+    ![29](6/24.png)
+    
+3. Ketikkan code dengan menggunakan library dari database mongoDB untuk nantinya dapat dibaca data yang telah diinputkan untuk tersimpan pada database
+
+    ![30](6/29.png)
+
+4. Jalankan perintah untuk membaca file database yang sudah dibuat
+
+    ![31](6/30.png)
