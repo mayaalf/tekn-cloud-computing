@@ -126,5 +126,4 @@
 
     ![32](6/32.png)
     
-#RestfulAPI Untuk Membaca Data Dari MySQL dan MongoDB
 
