@@ -1,4 +1,4 @@
-# LATIHAN DAN TUGAS PRAKTIKUM MINGGU KE-6
+LATIHAN DAN TUGAS PRAKTIKUM MINGGU KE-6
 
 ```
 Latihan
@@ -9,6 +9,7 @@ Latihan
 Tugas
 ```
 1. Kerjakan [Buat 2 program menggunakan salah satu pustaka yang ada di implementasi GraphQL di Go untuk membaca data dari MySQL serta MongoDB dan memberikan respon GraphQL, 1 program untuk MySQL, 1 program untuk MongoDB.](tugas-06.md)
+
 ```
 minggu-06
 ├── 6
