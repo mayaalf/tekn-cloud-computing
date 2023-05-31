@@ -10,7 +10,7 @@
 
    ![2](6/34.png)
 
-3. Buatlah code dengan nama file [main.go](main.go)
+3. Buatlah code dengan nama file [main.go](minggu-06/restful-api/main.go)
 4. Jalankan perintah untuk menjalankan file main go
 
   ![3](6/36.png)
