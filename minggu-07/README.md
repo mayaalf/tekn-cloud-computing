@@ -8,7 +8,7 @@ Latihan
 ```
 Tugas
 ```
-1. Carilah [Carilah image yang menarik untuk anda di DockerHub, coba jalankan dan buatlah dokumentasi tentang tugas ini.](tugas-07.md)
+1. Carilah [image yang menarik untuk anda di DockerHub, coba jalankan dan buatlah dokumentasi tentang tugas ini.](tugas-07.md)
 
 ```
 minggu-07
