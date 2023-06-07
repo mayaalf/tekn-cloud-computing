@@ -8,13 +8,13 @@ Latihan
 ```
 Tugas
 ```
-1. Buatlah [satu diagram yang dapat menggambarkan keterkaitan antara poin- poin :
+1. Buatlah [satu diagram yang dapat menggambarkan keterkaitan antara poin- poin:](tugas-08.md)
     - Docker Image
     - Container
     - Dockerd
     - Docker Client
     - Docker Compose
-    - Docker Swarm](tugas-08.md)
+    - Docker Swarm
 
 ```
 minggu-08
