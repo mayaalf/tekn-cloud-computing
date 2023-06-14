@@ -128,7 +128,7 @@
 
     ![29](9/28.png)
     
-5. uka [situs](http://ip172-19-0-3-ci4jndggftqg00ehj120-80.direct.labs.play-with-docker.com/) dan segarkan halaman, tampilan akan kembali versi awal   
+5. Buka [situs](http://ip172-19-0-3-ci4jndggftqg00ehj120-80.direct.labs.play-with-docker.com/) dan segarkan halaman, tampilan akan kembali versi awal   
 
     ![30](9/29.png) 
     
@@ -137,3 +137,44 @@
     ![31](9/27.png)    
     
 ### Perbarui Image    
+1. Membuat image dengan versi 2.0
+
+    ![32](9/30.png) 
+    
+2. Melihat image pada sistem
+
+    ![33](9/31.png)   
+   
+### Uji Versi Baru
+1. Menjalankan container denga versi baru image
+
+    ![34](9/32.png) 
+    
+2. Periksa versi baru [situs](http://ip172-19-0-3-ci4jndggftqg00ehj120-80.direct.labs.play-with-docker.com/) dan segarkan halaman
+
+    ![35](9/33.png) 
+    
+3. Jalankan container baru lain dengan image lama
+
+    ![36](9/34.png) 
+    
+4. Lihat [situs](http://ip172-19-0-3-ci4jndggftqg00ehj120-80.direct.labs.play-with-docker.com/)  versi lama
+
+    ![37](9/35.png)  
+    
+### Push Image ke DockerHub
+1. Cantumkan image di host Docker
+
+    ![38](9/36.png) 
+    
+2. Sebelum push image pastikan login terlebih dahulu
+
+    ![39](9/37.png)    
+    
+3. Push versi 1.0 di web menggunakan perintah
+
+    ![40](9/38.png) 
+    
+ 4. Push versi 2.0 di web menggunakan perintah
+
+    ![41](9/39.png)    
