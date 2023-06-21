@@ -32,3 +32,25 @@ docker info
    ![5](10/5.png)
 
    Hasil keluaran dari **bridge** terletak pada penyimpanan lokal
+2. Install ```brctl``` command, hal ini dugunakan untuk mengatur, memelihara, memeriksa internet configurasi pada Linux kernel. untuk mendapatkan hal tersebut jalankan perintah
+   ```
+   apk update
+   apk add bridge
+   ```
+   ![6](10/6.png)
+3. Menmapilkan daftar bridge yang ada dalam Docker yang berjalan denga perintah ```brctl show```
+
+   ![7](10/7.png)
+
+4. Jalankan perintah ```ip a``` untuk melihar detail dari docker0 bridge
+
+   ![8](10/8.png)
+### Step 2: Menghubungkan dengan Container
+1. Membuaat cintainer baru dengan bridge network
+   Jalankan perintah ```docker run -dt ubuntu sleep infinity```
+
+   ![9](10/9.png)
+2. Jalankan perintah ```docker ps``` untuk melihat container yang berasal dari ubuntu:latelest image berjalan
+
+   ![10](10/10.png)
+3. 
