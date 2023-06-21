@@ -174,13 +174,13 @@ docker info
 1. Jalankan perintah pada container ```cat /etc/resolv.conf```
 
    ![38](10/38.png)
- 2. Coba dan ping nama "myservice" dari dalam kontainer dengan menjalankan .ping -c5 myservice
+2. Coba dan ping nama "myservice" dari dalam kontainer dengan menjalankan .ping -c5 myservice
 
-   ![39](10/39.png)
- 3. Ketik perintah untuk meninggalkan sesi kontainer dan kembali ke perintah shell host Docker ```exit``` 
+    ![39](10/39.png)
+3. Ketik perintah untuk meninggalkan sesi kontainer dan kembali ke perintah shell host Docker ```exit```
 
    ![40](10/40.png)
-4. Verifikasi bahwa nilai VIP cocok dengan nilai yang dikembalikan oleh perintah sebelumnya ```docker service inspect myserviceping -c5 myservice```
+5. Verifikasi bahwa nilai VIP cocok dengan nilai yang dikembalikan oleh perintah sebelumnya ```docker service inspect myserviceping -c5 myservice```
 
    ![41](10/41.png)
 
