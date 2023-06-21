@@ -6,7 +6,7 @@
 ```
 minggu-09
 ├── 9
-├── latihan-08.md
+├── latihan-09.md
 └── README.md
 ```
 
