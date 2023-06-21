@@ -1,4 +1,4 @@
-<img width="334" alt="image" src="https://github.com/mayaalf/tekn-cloud-computing/assets/106806229/cb61498d-4fdb-4d00-a6b2-2e78068ada28"># Docker Networking Hands-on Lab
+# Docker Networking Hands-on Lab
 
 ## Bagian 1 - Dasar Networking
 ### Step 1: Perintah Docker Network
@@ -79,3 +79,11 @@ docker info
 6. Lakukan pemutusan koneksi dengan containner dengan perintah exit
    
    ![18](10/18.png)
+### Step 4: Konfigurasi NAT Untuk Koneksi Eksternal
+1. Jalankan perintah untuk menjalankan pembuatan container baru berdasarkan image NGINX
+
+   ![19](10/19.png)
+2. Cek kembali status container dengan menjalankan perintah ```docker ps```
+
+   ![20](10/20.png)
+   
