@@ -208,9 +208,9 @@ Mulai dengan cloning repository demo
    
    ![50](11/50.png)
    
-3. melihat api pada dockefile
+3. Melihat api pada dockefile
 
-  ![51](11/51.png)   
+   ![51](11/51.png)  
 
 4. Selanjutnya, melihat file server API Ruby pada Docker-compose.yml
 
