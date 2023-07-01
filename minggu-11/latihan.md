@@ -10,19 +10,19 @@ Mulai dengan cloning repository demo
 
    ![2](11/2.png)
    
-3. Terdapat file linkextractor.py, untuk melihat isi file gunakan perintah
+2. Terdapat file linkextractor.py, untuk melihat isi file gunakan perintah
   
    ![3](11/3.png)
 
-4. Menjalankan file
+3. Menjalankan file
 
   ![4](11/4.png)
   
-5. Ketika mencoba menjalankannya sebagai skrip, kami mendapat kesalahan. Mari kita periksa izin saat ini pada file
+4. Ketika mencoba menjalankannya sebagai skrip, kami mendapat kesalahan. Mari kita periksa izin saat ini pada file
 
    ![5](11/5.png)
    
-6. Menjalankannya sebagai program Python
+5. Menjalankannya sebagai program Python
 
    ![6](11/6.png)
 
