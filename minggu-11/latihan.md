@@ -216,30 +216,30 @@ Mulai dengan cloning repository demo
 
    ![52](11/52.png)
 
-6. Membuat build baru layanan
+5. Membuat build baru layanan
 
    ![53](11/53.png)
 
-7. Melakukan akses APIdengan port terbaru
+6. Melakukan akses APIdengan port terbaru
   
    ![54](11/54.png)
    
-8. Clik akses interface dengan [Link Extractor](http://ip172-18-0-78-cig2de4snmng00fa3omg-80.direct.labs.play-with-docker.com/?url=https%3A%2F%2Fgithub.com%2Fmayaalf%3Ftab%3Drepositories)
+7. Clik akses interface dengan [Link Extractor](http://ip172-18-0-78-cig2de4snmng00fa3omg-80.direct.labs.play-with-docker.com/?url=https%3A%2F%2Fgithub.com%2Fmayaalf%3Ftab%3Drepositories)
 
    ![55](11/55.png)
 
-9. Gunakan tail dengan perintah -f untuk melihat output
-    
+8. Gunakan tail dengan perintah -f untuk melihat output
+
    ![56](11/56.png)
 
    Menjalankan link extractor
    
    ![57](11/57.png)
 
-10. Verifikasi perubahan yang dibuat dalam lokal tidak mencerminkan dalam layananan yang sedang berjalan
+9. Verifikasi perubahan yang dibuat dalam lokal tidak mencerminkan dalam layananan yang sedang berjalan
 
    ![58](11/58.png)
 
-11. Karena telah mempertahankan log, log tersebut harus tetap tersedia setelah layanan hilang
-
-   ![59](11/59.png)
+10. Karena telah mempertahankan log, log tersebut harus tetap tersedia setelah layanan hilang
+   
+    ![59](11/59.png)
