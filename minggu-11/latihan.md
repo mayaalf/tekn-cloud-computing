@@ -16,7 +16,7 @@ Mulai dengan cloning repository demo
 
 3. Menjalankan file
 
-  ![4](11/4.png)
+   ![4](11/4.png)
   
 4. Ketika mencoba menjalankannya sebagai skrip, kami mendapat kesalahan. Mari kita periksa izin saat ini pada file
 
