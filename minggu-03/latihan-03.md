@@ -4,7 +4,7 @@
     
     ![01](f3/0.jpg)
 
-2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
+2. Akan direct ke akun cyclic dan diminta untuk Continue with GitHub
 
     ![02](f3/1.png)
     
