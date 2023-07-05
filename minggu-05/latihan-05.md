@@ -37,7 +37,7 @@
     
     ![6](5/6.png)
 
-2. Kemudian bersihkan sistem dan muat data OFBoz dengan lengkap menggunakan perintah **gredlew**. Perintah ini akam memakan waktu dalam prosesnya karena bergantung pada kecepatan koneksi internet masing-masing.
+2. Kemudian bersihkan sistem dan muat data OFBiz dengan lengkap menggunakan perintah **gredlew**. Perintah ini akam memakan waktu dalam prosesnya karena bergantung pada kecepatan koneksi internet masing-masing.
 
    ![7](5/7.png)
    
