@@ -29,6 +29,7 @@ Menjalankan Wireshark dengan X11 tunneling dan ssh
 ![6](m44/21.png)
 
 Display mininet command CLI :
+
 ![7](m44/22.png)
 
 ![8](m44/23.png)
